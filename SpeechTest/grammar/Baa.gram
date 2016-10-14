@@ -1,0 +1,11 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Lessons Grammar file
+ */
+
+grammar Baa;
+
+public <miscellaneous> = (quit);
+
+public <numbers> = (baa | baba | billi | baaja | bhai | badal ) * ;

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/cmu_us_kal.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/cmulex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/en_us.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/freetts.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/jsapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/sphinx4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/voce.jar"/>
+	<classpathentry kind="lib" path="C:/Users/RABAB/Google Drive/FYP/Project Related/SpeechTest/lib/WSJ_8gau_13dCep_16k_40mel_130Hz_6800Hz.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

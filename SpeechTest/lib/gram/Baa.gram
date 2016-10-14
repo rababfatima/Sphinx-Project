@@ -1,0 +1,9 @@
+#JSGF V1.0;
+
+/**
+ * JSGF Lessons Grammar for Hello World example
+ */
+
+grammar Baa;
+
+public <numbers> = (baa | baba | billi | baaja | bhai | badal ) * ;
